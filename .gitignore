@@ -138,7 +138,6 @@ data/
 #experiments
 experiments/
 
-
 output/
 *.ckpt
 *.bin
